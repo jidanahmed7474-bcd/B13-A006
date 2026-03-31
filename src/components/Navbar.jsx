@@ -16,7 +16,8 @@ const Navbar = ({ cartCount }) => {
           <a href="#home" className="text-gray-600 hover:text-purple-600 font-medium transition-colors">Home</a>
           <a href="#products" className="text-gray-600 hover:text-purple-600 font-medium transition-colors">Products</a>
           <a href="#pricing" className="text-gray-600 hover:text-purple-600 font-medium transition-colors">Pricing</a>
-          <a href="#steps" className="text-gray-600 hover:text-purple-600 font-medium transition-colors">How It Works</a>
+          <a href="#steps" className="text-gray-600 hover:text-purple-600 font-medium transition-colors">Testimonials</a>
+          <a href="#steps" className="text-gray-600 hover:text-purple-600 font-medium transition-colors">FAQ</a>
         </div>
 
         {/* Cart + CTA */}
@@ -48,7 +49,7 @@ const Navbar = ({ cartCount }) => {
               <li><a href="#home">Home</a></li>
               <li><a href="#products">Products</a></li>
               <li><a href="#pricing">Pricing</a></li>
-              <li><a href="#steps">How It Works</a></li>
+              <li><a href="#steps">Testimonials</a></li>
             </ul>
           </div>
         </div>
