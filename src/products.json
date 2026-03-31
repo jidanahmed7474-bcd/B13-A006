@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "ResumeAI Pro",
+    "description": "Create stunning, ATS-optimized resumes in minutes with AI-powered suggestions and 100+ professional templates.",
+    "price": 12,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF", "AI content suggestions"],
+    "icon": "portfolio.png"
+  },
+  {
+    "id": 2,
+    "name": "SocialBoost",
+    "description": "Schedule, analyze, and grow your social media presence across all major platforms with AI-driven insights.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Multi-platform scheduling", "Analytics dashboard", "AI caption generator", "Hashtag suggestions"],
+    "icon": "social-media.png"
+  },
+  {
+    "id": 3,
+    "name": "DesignStudio",
+    "description": "Professional graphic design tool with drag-and-drop interface, brand kits, and thousands of assets.",
+    "price": 149,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": ["Drag & drop editor", "Brand kit", "5000+ assets", "Team collaboration"],
+    "icon": "design-tool.png"
+  },
+  {
+    "id": 4,
+    "name": "ContentWriter",
+    "description": "AI-powered writing assistant that helps you craft blogs, emails, and marketing copy 10x faster.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Blog post generator", "Email templates", "SEO suggestions", "Plagiarism checker"],
+    "icon": "writing.png"
+  },
+  {
+    "id": 5,
+    "name": "OpsManager",
+    "description": "Streamline your business operations with task automation, workflow builder, and team management tools.",
+    "price": 299,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Workflow automation", "Team management", "KPI tracking", "Integrations with 50+ apps"],
+    "icon": "operation.png"
+  },
+  {
+    "id": 6,
+    "name": "ShopLaunch",
+    "description": "Launch your online store in minutes. Complete e-commerce solution with inventory, payments, and analytics.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": ["Unlimited products", "Payment gateway", "Inventory management", "Order tracking"],
+    "icon": "shopping-cart.png"
+  }
+]
