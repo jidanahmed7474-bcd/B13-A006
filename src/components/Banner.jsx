@@ -10,15 +10,12 @@ const Banner = () => {
           <div className="flex-1 text-center lg:text-left fade-in-up">
             {/* Badge */}
             <div className="inline-flex items-center gap-2 bg-purple-100 text-purple-700 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              <img src="/rocket.png" alt="" className="w-4 h-4" />
+              
               <span>New: AI-Powered Tools Available</span>
             </div>
 
-            <h1 className="font-display text-4xl sm:text-5xl lg:text-3xl font-extrabold text-indigo-950 leading-tight mb-6">
-              Supercharge Your
-              <span className="block text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-purple-400">
-                Digital Workflow
-              </span>
+            <h1 className="font-display text-4xl sm:text-5xl lg:text-5xl font-extrabold text-indigo-950 leading-tight mb-6">
+              Supercharge Your Digital Workflow
             </h1>
 
             <p className="text-gray-600 text-lg leading-relaxed mb-8 max-w-xl mx-auto lg:mx-0">
@@ -49,7 +46,7 @@ Explore Products
               <img
                 src="/banner.png"
                 alt="Digital Tools"
-                className="relative z-10 w-full max-w-md float-anim rounded-3xl"
+                className="relative z-10 w-full max-w-md rounded-3xl"
               />
             </div>
           </div>
